@@ -97,6 +97,7 @@ img{
     top: 210%;
 }
 #resume img{
+    max-width: 1200px;
     width: 92%;
     z-index: 3;
 }
